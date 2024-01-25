@@ -15,6 +15,7 @@ a,
   padding: 3px;
 }
 
+/* 可检测是否支持hover行为 */
 @media (hover: hover) {
   a:hover {
     background-color: hsla(160, 100%, 37%, 0.2);
